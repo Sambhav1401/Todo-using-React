@@ -17,17 +17,19 @@ iTask is a simple yet powerful React-based Todo List app that helps you manage y
 
 
 ## 📁 Project Structure
+
+```plaintext
+.
 ├── public/
 ├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ └── DarkMode.jsx
-│ ├── App.jsx
-│ ├── App.css
-│ └── index.js
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   └── DarkMode.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.js
 ├── package.json
 └── README.md
-
 
 
 ---
