@@ -31,7 +31,7 @@ iTask is a simple yet powerful React-based Todo List app that helps you manage y
 ├── package.json
 └── README.md
 
-
+```
 ---
 
 ## 🛠️ Tech Stack
