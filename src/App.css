@@ -1,0 +1,39 @@
+@media (max-width: 900px) {
+  .todo-wrapper {
+    flex-direction: column !important;
+    align-items: flex-start;
+  }
+
+  .todo-buttons {
+    flex-direction: row !important;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    font-size: small;
+  }
+
+  .todo-text {
+    margin-top: 5px;
+    word-wrap: break-word;
+    width: 100%;
+    max-width: 100%;
+  
+}
+}
+
+
+body {
+  background-color: white;
+  color: black;
+  transition: all 0.3s ease;
+}
+
+
+body.dark-mode {
+  background-color: #121212;
+  color: #f1f5f9; 
+}
+
+body.dark-mode .da {
+  background-color: #1e293b; 
+  color: #f8fafc; 
+}
